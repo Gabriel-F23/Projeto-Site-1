@@ -1,6 +1,7 @@
 # Projeto-Site-2
 
 ## Site feito com intuito de aprendizado.
+Site sobre o Rio de Janeiro
 ## Feito por Gabriel Freitas
 ## Tecnologias utilizadas
 
